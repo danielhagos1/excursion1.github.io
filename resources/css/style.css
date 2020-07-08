@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+.download {
+    font-size: 16px;
+    color: aquamarine;
+}
+.pt-guide {
+    font-family: Verdan;
+    font-weight: 300;
+    font-size: 42px;
+}
+.ptsmalltext {
+    font-family: Verdan;
+    font-size: 21px;
+    color: gray;
+}
+#camp {
+    width: 700px;
+    height: 500px;
+}
+#phone {
+    margin-top: 5px;
+}
+.download-buttom {
+   font-size: 12px;
+   color: aquamarine;
+}
+.copy{
+    text-align: right;
+    color: gray;
+}
